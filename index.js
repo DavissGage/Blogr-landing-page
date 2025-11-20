@@ -25,7 +25,7 @@ closeMenu.addEventListener('click', () =>{
 
 
 
-//Mobile Drop Down Menu Functionality
+//Added Mobile Drop Down Menu Functionality
 const getDropDownMenus = document.querySelectorAll('#dropdown-menu')
 let dropdown = document.querySelectorAll('.drop-item');
 
